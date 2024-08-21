@@ -1,6 +1,6 @@
 #read me file
 
-this is readmefile
+..this is readmefile
 
 this branch is being added
 
@@ -12,3 +12,5 @@ change in update branch
 
 changing for push
 changing for ssh, checking
+
+changing for pull and fetch
