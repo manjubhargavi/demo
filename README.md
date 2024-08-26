@@ -15,4 +15,6 @@ changing for ssh, checking
 
 changing for pull and fetch
 
-changing for pull rebase
+changing for pull rebas
+
+updating for existing tage
