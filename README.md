@@ -14,3 +14,5 @@ changing for push
 changing for ssh, checking
 
 changing for pull and fetch
+
+changing for pull rebase
